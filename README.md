@@ -71,17 +71,11 @@ The results clearly demonstrate that the RAG-enhanced LLM consistently outperfor
 
 ![](outputs/q2.png)
 
-* **Without RAG (Left):** The base LLM provides generic, slightly outdated information for 2021-2023.
-* **With RAG (Right):** My system retrieves relevant 2024 articles. The RAG-enhanced answer correctly incorporates the latest data, mentioning the Q1 2024 growth rate (1.6%) and the US share of global GDP (26.3%).
-
 ---
 
 ### Example 2
 
 ![](outputs/q3.png)
-
-* **Without RAG:** The base LLM might provide a correct but generic answer from its vast training data.
-* **With RAG:** My system retrieves the exact article about French President Macron's speech, making the answer specific, timely, and verifiable.
 
 ---
 
